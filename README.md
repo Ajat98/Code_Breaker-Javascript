@@ -1,5 +1,5 @@
-# Code_Breaker-Javascript
-Code breaker game designed in javascript, server&amp;client-side components
+# Code_Breaker
+Code breaker game made in javascript, server & client-side components
 
 Needed to run:
 
