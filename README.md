@@ -1,19 +1,18 @@
 # Code_Breaker-Javascript
 Code breaker game designed in javascript, server&amp;client-side components
 
-What you will need to run this:
+Needed to run:
 
-Step 1: install node.js (v8.15.1 or newer)
+1. node.js (v8.15.1 or newer)
 
     
-Step 2: install express
+2. express is installed
     
     
-Step 3: run nodejs server
-  - node code_breaker_server.js
+3. run nodejs server
+  - use command "node code_breaker_server.js"
    
 
-Step 4: change the url to http://localhost:3000/post
-	open code_breaker_client.js, go to Line 11
+4. make sure url is set to http://localhost:3000/post
+	in code_breaker_client.js line 11
 
-All good!
